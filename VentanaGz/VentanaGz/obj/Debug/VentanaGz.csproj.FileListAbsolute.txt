@@ -1,0 +1,15 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\VentanaGz.exe.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\VentanaGz.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\VentanaGz.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.VentanaGz.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.Properties.Resources.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.csproj.GenerateResource.Cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.MenuGz.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\obj\Debug\VentanaGz.NewUsuario.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\EntityFramework.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\EntityFramework.xml
+C:\Users\juniorsantiago\Desktop\Aplicada I\Proyect\VentanaGz\VentanaGz\bin\Debug\EntityFramework.SqlServer.xml
